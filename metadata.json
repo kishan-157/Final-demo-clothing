@@ -1,0 +1,6 @@
+{
+  "name": "NICE & NEW - Premium Men's Wear & Boutique",
+  "description": "Official website for NICE AND NEW, Dr. Yagnik Road Rajkot. Premium shirts, jeans, blazers, Google Maps live location, Google reviews, FAQ, and direct WhatsApp shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
